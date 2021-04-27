@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://abufawwaz.github.io/csb-0k5ue/static/css/main.44d0c857.chunk.css",
+    "main.js": "https://abufawwaz.github.io/csb-0k5ue/static/js/main.57288265.chunk.js",
+    "main.js.map": "https://abufawwaz.github.io/csb-0k5ue/static/js/main.57288265.chunk.js.map",
+    "runtime-main.js": "https://abufawwaz.github.io/csb-0k5ue/static/js/runtime-main.3b5bff17.js",
+    "runtime-main.js.map": "https://abufawwaz.github.io/csb-0k5ue/static/js/runtime-main.3b5bff17.js.map",
+    "static/css/2.9fe0ca66.chunk.css": "https://abufawwaz.github.io/csb-0k5ue/static/css/2.9fe0ca66.chunk.css",
+    "static/js/2.1f81b93f.chunk.js": "https://abufawwaz.github.io/csb-0k5ue/static/js/2.1f81b93f.chunk.js",
+    "static/js/2.1f81b93f.chunk.js.map": "https://abufawwaz.github.io/csb-0k5ue/static/js/2.1f81b93f.chunk.js.map",
+    "index.html": "https://abufawwaz.github.io/csb-0k5ue/index.html",
+    "precache-manifest.1c317abc3464b7ea2d8822a5dc26b04a.js": "https://abufawwaz.github.io/csb-0k5ue/precache-manifest.1c317abc3464b7ea2d8822a5dc26b04a.js",
+    "service-worker.js": "https://abufawwaz.github.io/csb-0k5ue/service-worker.js",
+    "static/css/2.9fe0ca66.chunk.css.map": "https://abufawwaz.github.io/csb-0k5ue/static/css/2.9fe0ca66.chunk.css.map",
+    "static/css/main.44d0c857.chunk.css.map": "https://abufawwaz.github.io/csb-0k5ue/static/css/main.44d0c857.chunk.css.map",
+    "static/js/2.1f81b93f.chunk.js.LICENSE.txt": "https://abufawwaz.github.io/csb-0k5ue/static/js/2.1f81b93f.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "https://abufawwaz.github.io/csb-0k5ue/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b5bff17.js",
+    "static/css/2.9fe0ca66.chunk.css",
+    "static/js/2.1f81b93f.chunk.js",
+    "static/css/main.44d0c857.chunk.css",
+    "static/js/main.57288265.chunk.js"
+  ]
+}
